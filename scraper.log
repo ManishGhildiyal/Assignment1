@@ -1,0 +1,389 @@
+2025-05-21 21:01:01,028 - INFO - ====== WebDriver manager ======
+2025-05-21 21:01:02,354 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-21 21:01:02,830 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-21 21:01:03,270 - INFO - Driver [C:\Users\Priyanshu\.wdm\drivers\chromedriver\win64\136.0.7103.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-21 21:01:13,954 - INFO - Found 0 event elements
+2025-05-21 21:01:14,022 - INFO - Successfully saved 0 events to the database.
+2025-05-21 21:05:19,784 - INFO - ====== WebDriver manager ======
+2025-05-21 21:05:21,414 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-21 21:05:21,806 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-21 21:05:22,553 - INFO - Driver [C:\Users\Priyanshu\.wdm\drivers\chromedriver\win64\136.0.7103.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-21 21:05:33,035 - INFO - Found 64 event elements with selector: .event-card
+2025-05-21 21:05:33,042 - INFO - Scraped event: 2025 Sydney Disability Connection Expo, Sponsored by Lite n' Easy
+2025-05-21 21:05:33,045 - INFO - Scraped event: Backyard Habitat Workshop - gardening with natives
+2025-05-21 21:05:33,046 - INFO - Scraped event: Winter Skin Wellness for Teens
+2025-05-21 21:05:33,048 - INFO - Scraped event: FANTASIA ESPAÑOLA
+2025-05-21 21:05:33,049 - INFO - Scraped event: 2025 Sydney Disability Connection Expo, Sponsored by Lite n' Easy
+2025-05-21 21:05:33,051 - INFO - Scraped event: Backyard Habitat Workshop - gardening with natives
+2025-05-21 21:05:33,053 - INFO - Scraped event: Winter Skin Wellness for Teens
+2025-05-21 21:05:33,060 - INFO - Scraped event: FANTASIA ESPAÑOLA
+2025-05-21 21:05:33,062 - INFO - Scraped event: Glee Sweet 16th Party - Sydney
+2025-05-21 21:05:33,063 - INFO - Scraped event: FRI 30 MAY - WAO SUPERCLUB @ IVY
+2025-05-21 21:05:33,067 - INFO - Scraped event: Throw Back - 80s, 90s, Noughties - VIVID Boat Party
+2025-05-21 21:05:33,068 - INFO - Scraped event: CASA with Danilo
+2025-05-21 21:05:33,069 - INFO - Scraped event: Glee Sweet 16th Party - Sydney
+2025-05-21 21:05:33,071 - INFO - Scraped event: FRI 30 MAY - WAO SUPERCLUB @ IVY
+2025-05-21 21:05:33,073 - INFO - Scraped event: Throw Back - 80s, 90s, Noughties - VIVID Boat Party
+2025-05-21 21:05:33,075 - INFO - Scraped event: CASA with Danilo
+2025-05-21 21:05:33,079 - INFO - Scraped event: Colourful China ·Harmonious Rhythm Chamber Music Concert
+2025-05-21 21:05:33,083 - INFO - Scraped event: 2025 Sydney Disability Connection Expo, Sponsored by Lite n' Easy
+2025-05-21 21:05:33,086 - INFO - Scraped event: SYDNEY KPOP PARTY | SYDNEY'S BIGGEST EVER KPOP PARTY  | FRI 23 MAY
+2025-05-21 21:05:33,087 - INFO - Scraped event: Private Capital 2025 - Investor Conference - SYDNEY
+2025-05-21 21:05:33,089 - INFO - Scraped event: Sydney Town Hall Organ Recital - Beautiful in White
+2025-05-21 21:05:33,090 - INFO - Scraped event: Meditation and Mindset Workshop - Sydney - 14  and 15  June  2025
+2025-05-21 21:05:33,091 - INFO - Scraped event: HOSHI X SMASH! Official Pre Party
+2025-05-21 21:05:33,092 - INFO - Scraped event: Quantum Future Talent: Open Day & Careers Fair
+2025-05-21 21:05:33,092 - INFO - Scraped event: Colourful China ·Harmonious Rhythm Chamber Music Concert
+2025-05-21 21:05:33,095 - INFO - Scraped event: 2025 Sydney Disability Connection Expo, Sponsored by Lite n' Easy
+2025-05-21 21:05:33,099 - INFO - Scraped event: SYDNEY KPOP PARTY | SYDNEY'S BIGGEST EVER KPOP PARTY  | FRI 23 MAY
+2025-05-21 21:05:33,101 - INFO - Scraped event: Private Capital 2025 - Investor Conference - SYDNEY
+2025-05-21 21:05:33,103 - INFO - Scraped event: Sydney Town Hall Organ Recital - Beautiful in White
+2025-05-21 21:05:33,105 - INFO - Scraped event: Meditation and Mindset Workshop - Sydney - 14  and 15  June  2025
+2025-05-21 21:05:33,106 - INFO - Scraped event: HOSHI X SMASH! Official Pre Party
+2025-05-21 21:05:33,107 - INFO - Scraped event: Quantum Future Talent: Open Day & Careers Fair
+2025-05-21 21:05:33,108 - INFO - Scraped event: Pics, Texts, and Tracking: Understanding and Addressing Digital Dating Abuse
+2025-05-21 21:05:33,115 - INFO - Scraped event: Career Fair: Exclusive Tech Hiring Event-New Tickets Available
+2025-05-21 21:05:33,117 - INFO - Scraped event: One Piece Card Game Regional - May
+2025-05-21 21:05:33,119 - INFO - Scraped event: Update on the Economy Webinar Series
+2025-05-21 21:05:33,120 - INFO - Scraped event: Speaking to children about sexual abuse
+2025-05-21 21:05:33,121 - INFO - Scraped event: San Jose Career Fair
+2025-05-21 21:05:33,123 - INFO - Scraped event: Dallas Career Fair
+2025-05-21 21:05:33,124 - INFO - Scraped event: No Cost On-Line Coursera Certification Courses For Military and Spouse
+2025-05-21 21:05:33,126 - INFO - Scraped event: Pics, Texts, and Tracking: Understanding and Addressing Digital Dating Abuse
+2025-05-21 21:05:33,131 - INFO - Scraped event: Career Fair: Exclusive Tech Hiring Event-New Tickets Available
+2025-05-21 21:05:33,133 - INFO - Scraped event: One Piece Card Game Regional - May
+2025-05-21 21:05:33,135 - INFO - Scraped event: Update on the Economy Webinar Series
+2025-05-21 21:05:33,136 - INFO - Scraped event: Speaking to children about sexual abuse
+2025-05-21 21:05:33,137 - INFO - Scraped event: San Jose Career Fair
+2025-05-21 21:05:33,139 - INFO - Scraped event: Dallas Career Fair
+2025-05-21 21:05:33,140 - INFO - Scraped event: No Cost On-Line Coursera Certification Courses For Military and Spouse
+2025-05-21 21:05:33,141 - INFO - Scraped event: FRI 23 MAY - WAO SUPERCLUB @ IVY
+2025-05-21 21:05:33,143 - INFO - Scraped event: Business Professionals NetworkNite | Sydney | Speed Networking
+2025-05-21 21:05:33,147 - INFO - Scraped event: Sydney City Walk
+2025-05-21 21:05:33,149 - INFO - Scraped event: Zankee Gulati | All Night Long | Civic Underground
+2025-05-21 21:05:33,151 - INFO - Scraped event: Big Night Out Pub Crawl | VIVID GLOW PARTY | Saturday 24 May | Sydney
+2025-05-21 21:05:33,152 - INFO - Scraped event: Capital Raising Bootcamp - Sydney
+2025-05-21 21:05:33,153 - INFO - Scraped event: Upcoming Dubai Real Estate Event & Expo in Sydney Book Your Ticket Free
+2025-05-21 21:05:33,154 - INFO - Scraped event: Vivid Sydney Harbour Cruise 2025
+2025-05-21 21:05:33,156 - INFO - Scraped event: FRI 23 MAY - WAO SUPERCLUB @ IVY
+2025-05-21 21:05:33,157 - INFO - Scraped event: Business Professionals NetworkNite | Sydney | Speed Networking
+2025-05-21 21:05:33,158 - INFO - Scraped event: Sydney City Walk
+2025-05-21 21:05:33,161 - INFO - Scraped event: Zankee Gulati | All Night Long | Civic Underground
+2025-05-21 21:05:33,165 - INFO - Scraped event: Big Night Out Pub Crawl | VIVID GLOW PARTY | Saturday 24 May | Sydney
+2025-05-21 21:05:33,166 - INFO - Scraped event: Capital Raising Bootcamp - Sydney
+2025-05-21 21:05:33,168 - INFO - Scraped event: Upcoming Dubai Real Estate Event & Expo in Sydney Book Your Ticket Free
+2025-05-21 21:05:33,168 - INFO - Scraped event: Vivid Sydney Harbour Cruise 2025
+2025-05-21 21:05:33,222 - INFO - Successfully saved 64 events to the database.
+2025-05-21 21:09:30,270 - INFO - ====== WebDriver manager ======
+2025-05-21 21:09:31,203 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-21 21:09:31,440 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-21 21:09:31,671 - INFO - Driver [C:\Users\Priyanshu\.wdm\drivers\chromedriver\win64\136.0.7103.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-21 21:09:42,559 - INFO - Found 64 event elements with selector: .event-card
+2025-05-21 21:09:42,563 - INFO - Scraped event: 2025 Sydney Disability Connection Expo, Sponsored by Lite n' Easy
+2025-05-21 21:09:42,563 - INFO - Skipping non-Sydney event: Backyard Habitat Workshop - gardening with natives
+2025-05-21 21:09:42,564 - INFO - Skipping non-Sydney event: Winter Skin Wellness for Teens
+2025-05-21 21:09:42,564 - INFO - Skipping non-Sydney event: FANTASIA ESPAÑOLA
+2025-05-21 21:09:42,565 - INFO - Skipping duplicate event: 2025 Sydney Disability Connection Expo, Sponsored by Lite n' Easy
+2025-05-21 21:09:42,565 - INFO - Skipping non-Sydney event: Backyard Habitat Workshop - gardening with natives
+2025-05-21 21:09:42,566 - INFO - Skipping non-Sydney event: Winter Skin Wellness for Teens
+2025-05-21 21:09:42,566 - INFO - Skipping non-Sydney event: FANTASIA ESPAÑOLA
+2025-05-21 21:09:42,567 - INFO - Scraped event: Glee Sweet 16th Party - Sydney
+2025-05-21 21:09:42,567 - INFO - Skipping non-Sydney event: FRI 30 MAY - WAO SUPERCLUB @ IVY
+2025-05-21 21:09:42,568 - INFO - Skipping non-Sydney event: Throw Back - 80s, 90s, Noughties - VIVID Boat Party
+2025-05-21 21:09:42,569 - INFO - Skipping non-Sydney event: CASA with Danilo
+2025-05-21 21:09:42,570 - INFO - Skipping duplicate event: Glee Sweet 16th Party - Sydney
+2025-05-21 21:09:42,571 - INFO - Skipping non-Sydney event: FRI 30 MAY - WAO SUPERCLUB @ IVY
+2025-05-21 21:09:42,571 - INFO - Skipping non-Sydney event: Throw Back - 80s, 90s, Noughties - VIVID Boat Party
+2025-05-21 21:09:42,572 - INFO - Skipping non-Sydney event: CASA with Danilo
+2025-05-21 21:09:42,576 - INFO - Skipping non-Sydney event: Colourful China ·Harmonious Rhythm Chamber Music Concert
+2025-05-21 21:09:42,578 - INFO - Scraped event: 2025 Sydney Disability Connection Expo, Sponsored by Lite n' Easy
+2025-05-21 21:09:42,579 - INFO - Skipping non-Sydney event: SYDNEY KPOP PARTY | SYDNEY'S BIGGEST EVER KPOP PARTY  | FRI 23 MAY
+2025-05-21 21:09:42,580 - INFO - Skipping non-Sydney event: Private Capital 2025 - Investor Conference - SYDNEY
+2025-05-21 21:09:42,580 - INFO - Scraped event: Sydney Town Hall Organ Recital - Beautiful in White
+2025-05-21 21:09:42,581 - INFO - Scraped event: Meditation and Mindset Workshop - Sydney - 14  and 15  June  2025
+2025-05-21 21:09:42,582 - INFO - Skipping non-Sydney event: HOSHI X SMASH! Official Pre Party
+2025-05-21 21:09:42,582 - INFO - Scraped event: Quantum Future Talent: Open Day & Careers Fair
+2025-05-21 21:09:42,583 - INFO - Skipping non-Sydney event: Colourful China ·Harmonious Rhythm Chamber Music Concert
+2025-05-21 21:09:42,583 - INFO - Skipping duplicate event: 2025 Sydney Disability Connection Expo, Sponsored by Lite n' Easy
+2025-05-21 21:09:42,584 - INFO - Skipping non-Sydney event: SYDNEY KPOP PARTY | SYDNEY'S BIGGEST EVER KPOP PARTY  | FRI 23 MAY
+2025-05-21 21:09:42,584 - INFO - Skipping non-Sydney event: Private Capital 2025 - Investor Conference - SYDNEY
+2025-05-21 21:09:42,585 - INFO - Skipping duplicate event: Sydney Town Hall Organ Recital - Beautiful in White
+2025-05-21 21:09:42,585 - INFO - Skipping duplicate event: Meditation and Mindset Workshop - Sydney - 14  and 15  June  2025
+2025-05-21 21:09:42,586 - INFO - Skipping non-Sydney event: HOSHI X SMASH! Official Pre Party
+2025-05-21 21:09:42,588 - INFO - Skipping duplicate event: Quantum Future Talent: Open Day & Careers Fair
+2025-05-21 21:09:42,588 - INFO - Skipping non-Sydney event: Pics, Texts, and Tracking: Understanding and Addressing Digital Dating Abuse
+2025-05-21 21:09:42,589 - INFO - Skipping non-Sydney event: Career Fair: Exclusive Tech Hiring Event-New Tickets Available
+2025-05-21 21:09:42,589 - INFO - Skipping non-Sydney event: One Piece Card Game Regional - May
+2025-05-21 21:09:42,589 - INFO - Skipping non-Sydney event: Update on the Economy Webinar Series
+2025-05-21 21:09:42,590 - INFO - Skipping non-Sydney event: Speaking to children about sexual abuse
+2025-05-21 21:09:42,590 - INFO - Skipping non-Sydney event: San Jose Career Fair
+2025-05-21 21:09:42,591 - INFO - Skipping non-Sydney event: Dallas Career Fair
+2025-05-21 21:09:42,591 - INFO - Skipping non-Sydney event: No Cost On-Line Coursera Certification Courses For Military and Spouse
+2025-05-21 21:09:42,592 - INFO - Skipping non-Sydney event: Pics, Texts, and Tracking: Understanding and Addressing Digital Dating Abuse
+2025-05-21 21:09:42,593 - INFO - Skipping non-Sydney event: Career Fair: Exclusive Tech Hiring Event-New Tickets Available
+2025-05-21 21:09:42,594 - INFO - Skipping non-Sydney event: One Piece Card Game Regional - May
+2025-05-21 21:09:42,594 - INFO - Skipping non-Sydney event: Update on the Economy Webinar Series
+2025-05-21 21:09:42,595 - INFO - Skipping non-Sydney event: Speaking to children about sexual abuse
+2025-05-21 21:09:42,595 - INFO - Skipping non-Sydney event: San Jose Career Fair
+2025-05-21 21:09:42,596 - INFO - Skipping non-Sydney event: Dallas Career Fair
+2025-05-21 21:09:42,597 - INFO - Skipping non-Sydney event: No Cost On-Line Coursera Certification Courses For Military and Spouse
+2025-05-21 21:09:42,597 - INFO - Skipping non-Sydney event: FRI 23 MAY - WAO SUPERCLUB @ IVY
+2025-05-21 21:09:42,599 - INFO - Scraped event: Business Professionals NetworkNite | Sydney | Speed Networking
+2025-05-21 21:09:42,601 - INFO - Scraped event: Sydney City Walk
+2025-05-21 21:09:42,603 - INFO - Skipping non-Sydney event: Zankee Gulati | All Night Long | Civic Underground
+2025-05-21 21:09:42,604 - INFO - Scraped event: Big Night Out Pub Crawl | VIVID GLOW PARTY | Saturday 24 May | Sydney
+2025-05-21 21:09:42,604 - INFO - Scraped event: Capital Raising Bootcamp - Sydney
+2025-05-21 21:09:42,605 - INFO - Scraped event: Upcoming Dubai Real Estate Event & Expo in Sydney Book Your Ticket Free
+2025-05-21 21:09:42,606 - INFO - Scraped event: Vivid Sydney Harbour Cruise 2025
+2025-05-21 21:09:42,606 - INFO - Skipping non-Sydney event: FRI 23 MAY - WAO SUPERCLUB @ IVY
+2025-05-21 21:09:42,607 - INFO - Skipping duplicate event: Business Professionals NetworkNite | Sydney | Speed Networking
+2025-05-21 21:09:42,607 - INFO - Skipping duplicate event: Sydney City Walk
+2025-05-21 21:09:42,608 - INFO - Skipping non-Sydney event: Zankee Gulati | All Night Long | Civic Underground
+2025-05-21 21:09:42,609 - INFO - Skipping duplicate event: Big Night Out Pub Crawl | VIVID GLOW PARTY | Saturday 24 May | Sydney
+2025-05-21 21:09:42,610 - INFO - Skipping duplicate event: Capital Raising Bootcamp - Sydney
+2025-05-21 21:09:42,610 - INFO - Skipping duplicate event: Upcoming Dubai Real Estate Event & Expo in Sydney Book Your Ticket Free
+2025-05-21 21:09:42,611 - INFO - Skipping duplicate event: Vivid Sydney Harbour Cruise 2025
+2025-05-21 21:09:42,654 - INFO - Successfully saved 12 events to the database.
+2025-05-21 21:15:37,378 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-21 21:15:37,380 - INFO - Added job "scrape_events" to job store "default"
+2025-05-21 21:15:37,380 - INFO - Scheduler started
+2025-05-21 21:54:49,985 - INFO - ====== WebDriver manager ======
+2025-05-21 21:54:51,904 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-21 21:54:53,015 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-21 21:54:53,926 - INFO - There is no [win64] chromedriver "136.0.7103.113" for browser google-chrome "136.0.7103" in cache
+2025-05-21 21:54:53,927 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-21 21:54:57,039 - INFO - WebDriver version 136.0.7103.113 selected
+2025-05-21 21:54:57,046 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/136.0.7103.113/win32/chromedriver-win32.zip
+2025-05-21 21:54:57,046 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/136.0.7103.113/win32/chromedriver-win32.zip
+2025-05-21 21:54:57,894 - INFO - Driver downloading response is 200
+2025-05-21 21:55:01,173 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-21 21:55:03,607 - INFO - Driver has been saved in cache [C:\Users\hp\.wdm\drivers\chromedriver\win64\136.0.7103.113]
+2025-05-21 22:11:16,719 - INFO - ====== WebDriver manager ======
+2025-05-21 22:11:18,372 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-21 22:11:19,523 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-21 22:11:20,468 - INFO - Driver [C:\Users\hp\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-05-21 22:19:59,722 - INFO - ====== WebDriver manager ======
+2025-05-21 22:20:01,318 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-21 22:20:02,401 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-21 22:20:05,368 - INFO - There is no [win64] chromedriver "136.0.7103.113" for browser google-chrome "136.0.7103" in cache
+2025-05-21 22:20:05,368 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-21 22:20:07,618 - INFO - WebDriver version 136.0.7103.113 selected
+2025-05-21 22:20:07,624 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/136.0.7103.113/win32/chromedriver-win32.zip
+2025-05-21 22:20:07,624 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/136.0.7103.113/win32/chromedriver-win32.zip
+2025-05-21 22:20:08,494 - INFO - Driver downloading response is 200
+2025-05-21 22:20:11,249 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-21 22:20:13,023 - INFO - Driver has been saved in cache [C:\Users\hp\.wdm\drivers\chromedriver\win64\136.0.7103.113]
+2025-05-21 22:20:24,294 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002013573AAB0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f8003aef6fac2971479f29e2cbdbf942/url
+2025-05-21 22:20:28,346 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002013573BD70>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f8003aef6fac2971479f29e2cbdbf942/url
+2025-05-21 22:20:32,393 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002013573B830>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f8003aef6fac2971479f29e2cbdbf942/url
+2025-05-21 22:20:36,439 - ERROR - Failed to fetch URL with Selenium: HTTPConnectionPool(host='localhost', port=53471): Max retries exceeded with url: /session/f8003aef6fac2971479f29e2cbdbf942/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002013660FE30>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-05-21 22:20:40,486 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002013660FC50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f8003aef6fac2971479f29e2cbdbf942
+2025-05-21 22:20:44,546 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002013660FA40>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f8003aef6fac2971479f29e2cbdbf942
+2025-05-21 22:20:48,610 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002013660F8F0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f8003aef6fac2971479f29e2cbdbf942
+2025-05-21 22:22:28,099 - INFO - ====== WebDriver manager ======
+2025-05-21 22:22:29,585 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-21 22:22:30,562 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-21 22:22:31,509 - INFO - Driver [C:\Users\hp\.wdm\drivers\chromedriver\win64\136.0.7103.113\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-21 22:22:40,522 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C21A684230>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e5ae920c8e888a2adc94f0b4c6b0d22d/url
+2025-05-21 22:22:44,585 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C21A684C20>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e5ae920c8e888a2adc94f0b4c6b0d22d/url
+2025-05-21 22:22:48,639 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C21A684DA0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e5ae920c8e888a2adc94f0b4c6b0d22d/url
+2025-05-21 22:22:52,696 - ERROR - Failed to fetch URL with Selenium: HTTPConnectionPool(host='localhost', port=53525): Max retries exceeded with url: /session/e5ae920c8e888a2adc94f0b4c6b0d22d/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C21A684F50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-05-21 22:22:56,740 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C21A685190>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e5ae920c8e888a2adc94f0b4c6b0d22d
+2025-05-21 22:23:00,789 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C21A685340>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e5ae920c8e888a2adc94f0b4c6b0d22d
+2025-05-21 22:23:04,845 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C21A6854F0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e5ae920c8e888a2adc94f0b4c6b0d22d
+2025-05-21 22:28:24,361 - INFO - ====== WebDriver manager ======
+2025-05-21 22:28:25,842 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-21 22:28:25,986 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-21 22:28:26,109 - INFO - There is no [win64] chromedriver "136.0.7103.113" for browser google-chrome "136.0.7103" in cache
+2025-05-21 22:28:26,109 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-21 22:28:26,451 - INFO - WebDriver version 136.0.7103.113 selected
+2025-05-21 22:28:26,455 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/136.0.7103.113/win32/chromedriver-win32.zip
+2025-05-21 22:28:26,455 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/136.0.7103.113/win32/chromedriver-win32.zip
+2025-05-21 22:28:26,523 - INFO - Driver downloading response is 200
+2025-05-21 22:28:29,865 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-21 22:28:30,811 - INFO - Driver has been saved in cache [C:\Users\hp\.wdm\drivers\chromedriver\win64\136.0.7103.113]
+2025-05-21 22:28:33,184 - INFO - WebDriver initialized successfully
+2025-05-21 22:28:37,312 - INFO - Successfully loaded https://www.eventbrite.com.au/d/australia--sydney/events/
+2025-05-21 22:28:44,405 - INFO - Scrolled 1 times
+2025-05-21 22:28:48,890 - INFO - Scrolled 2 times
+2025-05-21 22:28:51,982 - INFO - Scrolled 3 times
+2025-05-21 22:28:55,042 - INFO - Event cards loaded successfully
+2025-05-21 22:28:58,884 - INFO - WebDriver closed
+2025-05-21 22:28:59,357 - INFO - Found 176 event elements with selector: .event-card
+2025-05-21 22:28:59,362 - INFO - Scraped event: 2025 Sydney Disability Connection Expo, Sponsored by Lite n' Easy
+2025-05-21 22:28:59,363 - INFO - Skipping non-Sydney event: Backyard Habitat Workshop - gardening with natives
+2025-05-21 22:28:59,363 - INFO - Skipping non-Sydney event: Winter Skin Wellness for Teens
+2025-05-21 22:28:59,364 - INFO - Skipping non-Sydney event: FANTASIA ESPAÑOLA
+2025-05-21 22:28:59,365 - INFO - Skipping duplicate event: 2025 Sydney Disability Connection Expo, Sponsored by Lite n' Easy
+2025-05-21 22:28:59,366 - INFO - Skipping non-Sydney event: Backyard Habitat Workshop - gardening with natives
+2025-05-21 22:28:59,367 - INFO - Skipping non-Sydney event: Winter Skin Wellness for Teens
+2025-05-21 22:28:59,367 - INFO - Skipping non-Sydney event: FANTASIA ESPAÑOLA
+2025-05-21 22:28:59,368 - INFO - Scraped event: Glee Sweet 16th Party - Sydney
+2025-05-21 22:28:59,370 - INFO - Skipping non-Sydney event: FRI 30 MAY - WAO SUPERCLUB @ IVY
+2025-05-21 22:28:59,372 - INFO - Skipping non-Sydney event: Throw Back - 80s, 90s, Noughties - VIVID Boat Party
+2025-05-21 22:28:59,403 - INFO - Skipping non-Sydney event: CASA with Danilo
+2025-05-21 22:28:59,404 - INFO - Skipping duplicate event: Glee Sweet 16th Party - Sydney
+2025-05-21 22:28:59,409 - INFO - Skipping non-Sydney event: FRI 30 MAY - WAO SUPERCLUB @ IVY
+2025-05-21 22:28:59,410 - INFO - Skipping non-Sydney event: Throw Back - 80s, 90s, Noughties - VIVID Boat Party
+2025-05-21 22:28:59,410 - INFO - Skipping non-Sydney event: CASA with Danilo
+2025-05-21 22:28:59,411 - INFO - Skipping non-Sydney event: Grand Seafood Buffet 25th May
+2025-05-21 22:28:59,413 - INFO - Scraped event: 2025 Sydney Disability Connection Expo, Sponsored by Lite n' Easy
+2025-05-21 22:28:59,414 - INFO - Skipping non-Sydney event: SYDNEY KPOP PARTY | SYDNEY'S BIGGEST EVER KPOP PARTY  | FRI 23 MAY
+2025-05-21 22:28:59,416 - INFO - Skipping non-Sydney event: Private Capital 2025 - Investor Conference - SYDNEY
+2025-05-21 22:28:59,419 - INFO - Scraped event: Sydney Town Hall Organ Recital - Beautiful in White
+2025-05-21 22:28:59,422 - INFO - Scraped event: Meditation and Mindset Workshop - Sydney - 14  and 15  June  2025
+2025-05-21 22:28:59,423 - INFO - Skipping non-Sydney event: HOSHI X SMASH! Official Pre Party
+2025-05-21 22:28:59,424 - INFO - Scraped event: Quantum Future Talent: Open Day & Careers Fair
+2025-05-21 22:28:59,426 - INFO - Skipping non-Sydney event: Grand Seafood Buffet 25th May
+2025-05-21 22:28:59,437 - INFO - Skipping duplicate event: 2025 Sydney Disability Connection Expo, Sponsored by Lite n' Easy
+2025-05-21 22:28:59,456 - INFO - Skipping non-Sydney event: SYDNEY KPOP PARTY | SYDNEY'S BIGGEST EVER KPOP PARTY  | FRI 23 MAY
+2025-05-21 22:28:59,459 - INFO - Skipping non-Sydney event: Private Capital 2025 - Investor Conference - SYDNEY
+2025-05-21 22:28:59,461 - INFO - Skipping duplicate event: Sydney Town Hall Organ Recital - Beautiful in White
+2025-05-21 22:28:59,462 - INFO - Skipping duplicate event: Meditation and Mindset Workshop - Sydney - 14  and 15  June  2025
+2025-05-21 22:28:59,464 - INFO - Skipping non-Sydney event: HOSHI X SMASH! Official Pre Party
+2025-05-21 22:28:59,466 - INFO - Skipping duplicate event: Quantum Future Talent: Open Day & Careers Fair
+2025-05-21 22:28:59,467 - INFO - Skipping non-Sydney event: MI5: Official Secrets - Online Curator Tour
+2025-05-21 22:28:59,469 - INFO - Skipping non-Sydney event: Career Fair: Exclusive Tech Hiring Event-New Tickets Available
+2025-05-21 22:28:59,471 - INFO - Skipping non-Sydney event: One Piece Card Game Regional - May
+2025-05-21 22:28:59,472 - INFO - Skipping non-Sydney event: Update on the Economy Webinar Series
+2025-05-21 22:28:59,474 - INFO - Skipping non-Sydney event: Speaking to children about sexual abuse
+2025-05-21 22:28:59,476 - INFO - Skipping non-Sydney event: San Jose Career Fair
+2025-05-21 22:28:59,477 - INFO - Skipping non-Sydney event: Dallas Career Fair
+2025-05-21 22:28:59,478 - INFO - Skipping non-Sydney event: No Cost On-Line Coursera Certification Courses For Military and Spouse
+2025-05-21 22:28:59,479 - INFO - Skipping non-Sydney event: MI5: Official Secrets - Online Curator Tour
+2025-05-21 22:28:59,480 - INFO - Skipping non-Sydney event: Career Fair: Exclusive Tech Hiring Event-New Tickets Available
+2025-05-21 22:28:59,483 - INFO - Skipping non-Sydney event: One Piece Card Game Regional - May
+2025-05-21 22:28:59,490 - INFO - Skipping non-Sydney event: Update on the Economy Webinar Series
+2025-05-21 22:28:59,492 - INFO - Skipping non-Sydney event: Speaking to children about sexual abuse
+2025-05-21 22:28:59,494 - INFO - Skipping non-Sydney event: San Jose Career Fair
+2025-05-21 22:28:59,515 - INFO - Skipping non-Sydney event: Dallas Career Fair
+2025-05-21 22:28:59,522 - INFO - Skipping non-Sydney event: No Cost On-Line Coursera Certification Courses For Military and Spouse
+2025-05-21 22:28:59,524 - INFO - Skipping non-Sydney event: FRI 23 MAY - WAO SUPERCLUB @ IVY
+2025-05-21 22:28:59,525 - INFO - Scraped event: Business Professionals NetworkNite | Sydney | Speed Networking
+2025-05-21 22:28:59,527 - INFO - Scraped event: Sydney City Walk
+2025-05-21 22:28:59,529 - INFO - Skipping non-Sydney event: Zankee Gulati | All Night Long | Civic Underground
+2025-05-21 22:28:59,531 - INFO - Scraped event: Big Night Out Pub Crawl | VIVID GLOW PARTY | Saturday 24 May | Sydney
+2025-05-21 22:28:59,534 - INFO - Scraped event: Capital Raising Bootcamp - Sydney
+2025-05-21 22:28:59,536 - INFO - Scraped event: Upcoming Dubai Real Estate Event & Expo in Sydney Book Your Ticket Free
+2025-05-21 22:28:59,537 - INFO - Scraped event: Vivid Sydney Harbour Cruise 2025
+2025-05-21 22:28:59,539 - INFO - Skipping non-Sydney event: FRI 23 MAY - WAO SUPERCLUB @ IVY
+2025-05-21 22:28:59,540 - INFO - Skipping duplicate event: Business Professionals NetworkNite | Sydney | Speed Networking
+2025-05-21 22:28:59,540 - INFO - Skipping duplicate event: Sydney City Walk
+2025-05-21 22:28:59,541 - INFO - Skipping non-Sydney event: Zankee Gulati | All Night Long | Civic Underground
+2025-05-21 22:28:59,542 - INFO - Skipping duplicate event: Big Night Out Pub Crawl | VIVID GLOW PARTY | Saturday 24 May | Sydney
+2025-05-21 22:28:59,543 - INFO - Skipping duplicate event: Capital Raising Bootcamp - Sydney
+2025-05-21 22:28:59,547 - INFO - Skipping duplicate event: Upcoming Dubai Real Estate Event & Expo in Sydney Book Your Ticket Free
+2025-05-21 22:28:59,549 - INFO - Skipping duplicate event: Vivid Sydney Harbour Cruise 2025
+2025-05-21 22:28:59,550 - INFO - Skipping non-Sydney event: Zankee Gulati | All Night Long | Civic Underground
+2025-05-21 22:28:59,552 - INFO - Scraped event: Glee Sweet 16th Party - Sydney
+2025-05-21 22:28:59,554 - INFO - Skipping non-Sydney event: FRI 30 MAY - WAO SUPERCLUB @ IVY
+2025-05-21 22:28:59,556 - INFO - Skipping non-Sydney event: InTooDeep   - VIVID Sunset Boat Party (31.05)
+2025-05-21 22:28:59,591 - INFO - Skipping non-Sydney event: Throw Back - 80s, 90s, Noughties - VIVID Boat Party
+2025-05-21 22:28:59,592 - INFO - Skipping non-Sydney event: CASA with Danilo
+2025-05-21 22:28:59,593 - INFO - Skipping non-Sydney event: EUTONA SYDNEY: INFERNO
+2025-05-21 22:28:59,595 - INFO - Scraped event: Bollywood Vivid Sydney Cruise Party @Cadman Cruises
+2025-05-21 22:28:59,599 - INFO - Skipping non-Sydney event: Zankee Gulati | All Night Long | Civic Underground
+2025-05-21 22:28:59,600 - INFO - Skipping duplicate event: Glee Sweet 16th Party - Sydney
+2025-05-21 22:28:59,602 - INFO - Skipping non-Sydney event: FRI 30 MAY - WAO SUPERCLUB @ IVY
+2025-05-21 22:28:59,604 - INFO - Skipping non-Sydney event: InTooDeep   - VIVID Sunset Boat Party (31.05)
+2025-05-21 22:28:59,605 - INFO - Skipping non-Sydney event: Throw Back - 80s, 90s, Noughties - VIVID Boat Party
+2025-05-21 22:28:59,607 - INFO - Skipping non-Sydney event: CASA with Danilo
+2025-05-21 22:28:59,609 - INFO - Skipping non-Sydney event: EUTONA SYDNEY: INFERNO
+2025-05-21 22:28:59,610 - INFO - Skipping duplicate event: Bollywood Vivid Sydney Cruise Party @Cadman Cruises
+2025-05-21 22:28:59,611 - INFO - Scraped event: Business Professionals | NetworkNite Sydney | Speed Networking
+2025-05-21 22:28:59,612 - INFO - Skipping duplicate event: Big Night Out Pub Crawl | VIVID GLOW PARTY | Saturday 24 May | Sydney
+2025-05-21 22:28:59,613 - INFO - Scraped event: **MEN SOLD OUT** Speed Dating | Sydney (Ages 27-42) | SpeedAustralia
+2025-05-21 22:28:59,647 - INFO - Skipping non-Sydney event: Grand Seafood Buffet 15th June
+2025-05-21 22:28:59,649 - INFO - Skipping non-Sydney event: EXPERIENCE THE ART OF TRAVEL - GOURMET TRAVELLER READER DINNER
+2025-05-21 22:28:59,650 - INFO - Scraped event: Tyrrell's Wine Dinner Sydney 2nd July 2025 6.30 pm
+2025-05-21 22:28:59,654 - INFO - Scraped event: Benchmark Wines of Australia Long Lunch | Sydney
+2025-05-21 22:28:59,655 - INFO - Skipping non-Sydney event: Advanced Sommelier Certificate SYDNEY 2025
+2025-05-21 22:28:59,656 - INFO - Skipping duplicate event: Business Professionals | NetworkNite Sydney | Speed Networking
+2025-05-21 22:28:59,657 - INFO - Skipping duplicate event: Big Night Out Pub Crawl | VIVID GLOW PARTY | Saturday 24 May | Sydney
+2025-05-21 22:28:59,658 - INFO - Skipping duplicate event: **MEN SOLD OUT** Speed Dating | Sydney (Ages 27-42) | SpeedAustralia
+2025-05-21 22:28:59,659 - INFO - Skipping non-Sydney event: Grand Seafood Buffet 15th June
+2025-05-21 22:28:59,660 - INFO - Skipping non-Sydney event: EXPERIENCE THE ART OF TRAVEL - GOURMET TRAVELLER READER DINNER
+2025-05-21 22:28:59,662 - INFO - Skipping duplicate event: Tyrrell's Wine Dinner Sydney 2nd July 2025 6.30 pm
+2025-05-21 22:28:59,664 - INFO - Skipping duplicate event: Benchmark Wines of Australia Long Lunch | Sydney
+2025-05-21 22:28:59,665 - INFO - Skipping non-Sydney event: Advanced Sommelier Certificate SYDNEY 2025
+2025-05-21 22:28:59,703 - INFO - Skipping non-Sydney event: RADIUS 2025 - CONSTRUCTION NETWORKING FORUM SYDNEY
+2025-05-21 22:28:59,705 - INFO - Skipping non-Sydney event: Private Capital 2025 - Investor Conference - SYDNEY
+2025-05-21 22:28:59,709 - INFO - Scraped event: Speed Networking Commercial Lenders & Brokers (Construction) Sydney
+2025-05-21 22:28:59,711 - INFO - Skipping non-Sydney event: Ellerston JAADE Annual Australian Private Assets Roadshow 2025
+2025-05-21 22:28:59,712 - INFO - Skipping non-Sydney event: AGSM Business Breakfast - The Leadership Advantage: thriving in complexity
+2025-05-21 22:28:59,714 - INFO - Skipping non-Sydney event: Recruitment Founders Unfiltered: What It Takes To Win in 2025.
+2025-05-21 22:28:59,717 - INFO - Skipping non-Sydney event: Strategic Shifts: Leadership, Influence & Career Transition
+2025-05-21 22:28:59,720 - INFO - Scraped event: Starting a Bookkeeping Business Information Night - Sydney
+2025-05-21 22:28:59,722 - INFO - Skipping non-Sydney event: RADIUS 2025 - CONSTRUCTION NETWORKING FORUM SYDNEY
+2025-05-21 22:28:59,723 - INFO - Skipping non-Sydney event: Private Capital 2025 - Investor Conference - SYDNEY
+2025-05-21 22:28:59,724 - INFO - Skipping duplicate event: Speed Networking Commercial Lenders & Brokers (Construction) Sydney
+2025-05-21 22:28:59,726 - INFO - Skipping non-Sydney event: Ellerston JAADE Annual Australian Private Assets Roadshow 2025
+2025-05-21 22:28:59,728 - INFO - Skipping non-Sydney event: AGSM Business Breakfast - The Leadership Advantage: thriving in complexity
+2025-05-21 22:28:59,766 - INFO - Skipping non-Sydney event: Recruitment Founders Unfiltered: What It Takes To Win in 2025.
+2025-05-21 22:28:59,769 - INFO - Skipping non-Sydney event: Strategic Shifts: Leadership, Influence & Career Transition
+2025-05-21 22:28:59,771 - INFO - Skipping duplicate event: Starting a Bookkeeping Business Information Night - Sydney
+2025-05-21 22:28:59,772 - INFO - Skipping duplicate event: 2025 Sydney Disability Connection Expo, Sponsored by Lite n' Easy
+2025-05-21 22:28:59,773 - INFO - Skipping non-Sydney event: The Joy of Kundalini Awakening \u2728
+2025-05-21 22:28:59,775 - INFO - Skipping non-Sydney event: Embodied Breathwork - A Journey of Restoring Balance
+2025-05-21 22:28:59,776 - INFO - Skipping non-Sydney event: Neurosurgical Nursing Professional Development 21st Annual Conference
+2025-05-21 22:28:59,778 - INFO - Skipping non-Sydney event: Assertiveness Training
+2025-05-21 22:28:59,779 - INFO - Skipping non-Sydney event: Wesley LifeForce Suicide Prevention Half Day Workshop - Sylvania, NSW
+2025-05-21 22:28:59,789 - INFO - Skipping non-Sydney event: Live Public Talk: Presented by Dr John Demartini
+2025-05-21 22:28:59,815 - INFO - Skipping non-Sydney event: The Care Manager's Guide to Budgeting and Integrated Service Delivery-SYD
+2025-05-21 22:28:59,817 - INFO - Skipping duplicate event: 2025 Sydney Disability Connection Expo, Sponsored by Lite n' Easy
+2025-05-21 22:28:59,820 - INFO - Skipping non-Sydney event: The Joy of Kundalini Awakening \u2728
+2025-05-21 22:28:59,822 - INFO - Skipping non-Sydney event: Embodied Breathwork - A Journey of Restoring Balance
+2025-05-21 22:28:59,824 - INFO - Skipping non-Sydney event: Neurosurgical Nursing Professional Development 21st Annual Conference
+2025-05-21 22:28:59,825 - INFO - Skipping non-Sydney event: Assertiveness Training
+2025-05-21 22:28:59,827 - INFO - Skipping non-Sydney event: Wesley LifeForce Suicide Prevention Half Day Workshop - Sylvania, NSW
+2025-05-21 22:28:59,830 - INFO - Skipping non-Sydney event: Live Public Talk: Presented by Dr John Demartini
+2025-05-21 22:28:59,832 - INFO - Skipping non-Sydney event: The Care Manager's Guide to Budgeting and Integrated Service Delivery-SYD
+2025-05-21 22:28:59,832 - INFO - Skipping non-Sydney event: The Library Book Club
+2025-05-21 22:28:59,833 - INFO - Skipping duplicate event: Sydney City Walk
+2025-05-21 22:28:59,834 - INFO - Skipping non-Sydney event: Fellows' Forum: Women in the archives
+2025-05-21 22:28:59,835 - INFO - Scraped event: Members Vivid Sydney Cruise
+2025-05-21 22:28:59,836 - INFO - Skipping non-Sydney event: SYDNEY CBD - Speed Dating for ages 26-44 by Cheeky Events
+2025-05-21 22:28:59,837 - INFO - Skipping non-Sydney event: GayBar MidWinter Party with a Purpose
+2025-05-21 22:28:59,838 - INFO - Skipping non-Sydney event: Cards, Cringe & Chemistry - Singles Boardgames Night
+2025-05-21 22:28:59,839 - INFO - Skipping non-Sydney event: JAPAN EXPO 2025
+2025-05-21 22:28:59,840 - INFO - Skipping non-Sydney event: The Library Book Club
+2025-05-21 22:28:59,841 - INFO - Skipping duplicate event: Sydney City Walk
+2025-05-21 22:28:59,842 - INFO - Skipping non-Sydney event: Fellows' Forum: Women in the archives
+2025-05-21 22:28:59,842 - INFO - Skipping duplicate event: Members Vivid Sydney Cruise
+2025-05-21 22:28:59,845 - INFO - Skipping non-Sydney event: SYDNEY CBD - Speed Dating for ages 26-44 by Cheeky Events
+2025-05-21 22:28:59,846 - INFO - Skipping non-Sydney event: GayBar MidWinter Party with a Purpose
+2025-05-21 22:28:59,847 - INFO - Skipping non-Sydney event: Cards, Cringe & Chemistry - Singles Boardgames Night
+2025-05-21 22:28:59,849 - INFO - Skipping non-Sydney event: JAPAN EXPO 2025
+2025-05-21 22:28:59,851 - INFO - Skipping duplicate event: 2025 Sydney Disability Connection Expo, Sponsored by Lite n' Easy
+2025-05-21 22:28:59,852 - INFO - Skipping non-Sydney event: Build Your Own AI Assistant: A Step-by-Step Guide to Creating Your GPT
+2025-05-21 22:28:59,853 - INFO - Skipping non-Sydney event: Fellows' Forum: Women in the archives
+2025-05-21 22:28:59,885 - INFO - Skipping non-Sydney event: AGSM Business Breakfast - The Leadership Advantage: thriving in complexity
+2025-05-21 22:28:59,888 - INFO - Skipping non-Sydney event: Wesley LifeForce Suicide Prevention Half Day Workshop - Sylvania, NSW
+2025-05-21 22:28:59,890 - INFO - Skipping non-Sydney event: Strategic Shifts: Leadership, Influence & Career Transition
+2025-05-21 22:28:59,893 - INFO - Skipping duplicate event: Starting a Bookkeeping Business Information Night - Sydney
+2025-05-21 22:28:59,894 - INFO - Skipping non-Sydney event: 2025 NDARC Annual Research Symposium
+2025-05-21 22:28:59,894 - INFO - Skipping duplicate event: 2025 Sydney Disability Connection Expo, Sponsored by Lite n' Easy
+2025-05-21 22:28:59,895 - INFO - Skipping non-Sydney event: Build Your Own AI Assistant: A Step-by-Step Guide to Creating Your GPT
+2025-05-21 22:28:59,896 - INFO - Skipping non-Sydney event: Fellows' Forum: Women in the archives
+2025-05-21 22:28:59,897 - INFO - Skipping non-Sydney event: AGSM Business Breakfast - The Leadership Advantage: thriving in complexity
+2025-05-21 22:28:59,898 - INFO - Skipping non-Sydney event: Wesley LifeForce Suicide Prevention Half Day Workshop - Sylvania, NSW
+2025-05-21 22:28:59,898 - INFO - Skipping non-Sydney event: Strategic Shifts: Leadership, Influence & Career Transition
+2025-05-21 22:28:59,899 - INFO - Skipping duplicate event: Starting a Bookkeeping Business Information Night - Sydney
+2025-05-21 22:28:59,900 - INFO - Skipping non-Sydney event: 2025 NDARC Annual Research Symposium
+2025-05-21 22:28:59,901 - INFO - Scraped event: Sydney Writers' Festival - An Evening with Shankari Chandran
+2025-05-21 22:28:59,903 - INFO - Skipping non-Sydney event: Urban Wine Walk // Bondi (NSW)
+2025-05-21 22:28:59,904 - INFO - Skipping non-Sydney event: Backyard Habitat Workshop - gardening with natives
+2025-05-21 22:28:59,904 - INFO - Skipping non-Sydney event: Winter Skin Wellness for Teens
+2025-05-21 22:28:59,905 - INFO - Scraped event: Aperitivo with Uniworld: A Wine Tasting Through Europe | Sydney
+2025-05-21 22:28:59,912 - INFO - Skipping non-Sydney event: Glenworth Grazing  Festival | Saturday 2025
+2025-05-21 22:28:59,913 - INFO - Skipping non-Sydney event: FANTASIA ESPAÑOLA
+2025-05-21 22:28:59,915 - INFO - Skipping non-Sydney event: EXPERIENCE THE ART OF TRAVEL - GOURMET TRAVELLER READER DINNER
+2025-05-21 22:28:59,917 - INFO - Skipping duplicate event: Sydney Writers' Festival - An Evening with Shankari Chandran
+2025-05-21 22:28:59,918 - INFO - Skipping non-Sydney event: Urban Wine Walk // Bondi (NSW)
+2025-05-21 22:28:59,920 - INFO - Skipping non-Sydney event: Backyard Habitat Workshop - gardening with natives
+2025-05-21 22:28:59,922 - INFO - Skipping non-Sydney event: Winter Skin Wellness for Teens
+2025-05-21 22:28:59,945 - INFO - Skipping duplicate event: Aperitivo with Uniworld: A Wine Tasting Through Europe | Sydney
+2025-05-21 22:28:59,960 - INFO - Skipping non-Sydney event: Glenworth Grazing  Festival | Saturday 2025
+2025-05-21 22:28:59,962 - INFO - Skipping non-Sydney event: FANTASIA ESPAÑOLA
+2025-05-21 22:28:59,965 - INFO - Skipping non-Sydney event: EXPERIENCE THE ART OF TRAVEL - GOURMET TRAVELLER READER DINNER
+2025-05-21 22:29:00,041 - INFO - Successfully saved 23 events to the database.
