@@ -45,4 +45,7 @@ def get_tickets():
     return jsonify({'message': 'Thank you! You will be redirected.', 'url': event_url})
 
 if __name__ == '__main__':
+    with app.app_context():
+        db.create_all()
     app.run(debug=True)
+
